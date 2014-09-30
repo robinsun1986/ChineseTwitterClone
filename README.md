@@ -5,7 +5,7 @@ This is a copycat project of "Weibo", the counterpart of Twitter in China. The d
 the user can view all the legacy and latest tweets, including reposts and comments in one go.
 
 Test account<br>
-Username: 1809356287@qq.com <br> 
+Username: chinesetwitterclone@gmail.com <br> 
 Password: 1234567890 <br>
 
 <table>
